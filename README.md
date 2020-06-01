@@ -1,7 +1,7 @@
 # Embedded_code
-This code contins the logic to server and client of an waterlevel controller
+This code contains the logic to server and client of an waterlevel controller
 
-steps to create a server ESP32: (Linght_Control_Async_WifiManger)2)
+steps to create a server ESP32: (Light_Control_Async_WifiMangaer_2)
 1. Setup the ESP32 board as mentioned in this link[https://www.electronics-lab.com/project/getting-started-esp32/]
 2. Install ESPAsyncWifiManager,ESP wifi libraries for ESP32
 3. choose the appropriate port and board for the IDE environment
@@ -14,7 +14,8 @@ steps to create a server ESP32: (Linght_Control_Async_WifiManger)2)
 9. Not: to reconfigure the Wifi SSID and Password, connect pin 13 to ground
 
 
-Steps to create a ESP8266 client:(WifiClient_unltrasonic.ino)
+Steps to create a ESP8266 client: (WifiClient_unltrasonic.ino)
+
 1.setup esp8266 as mentioned in this link[https://makecademy.com/getting-started-esp8266/]
 2. Install wifi libraries for ESP8266
 3. set SSID and password for wifi network to be connected in the code 
